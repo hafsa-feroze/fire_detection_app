@@ -1,7 +1,0 @@
-flask==3.0.2
-tensorflow==2.15.0
-numpy==1.24.3
-pillow==10.2.0
-werkzeug==3.0.1
-opencv-python==4.8.1.78 git
-
